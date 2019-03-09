@@ -1,1 +1,2 @@
-# banzoku.github.io
+# banzoku :: Gihub Page
+
